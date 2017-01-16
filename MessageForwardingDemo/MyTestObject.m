@@ -12,6 +12,8 @@
 
 // iOS黑魔法－Method Swizzling ：http://www.cocoachina.com/ios/20160121/15076.html
 
+// http://www.cocoachina.com/ios/20130528/6295.html
+
 #import "MyTestObject.h"
 #import <objc/runtime.h>
 
